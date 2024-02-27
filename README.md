@@ -1,3 +1,4 @@
+Forked!!!
 # Word Mastermind
 
 This game is a clone of [Wordle](https://www.powerlanguage.co.uk/wordle/).
